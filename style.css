@@ -1,0 +1,332 @@
+* {
+  font-family: "League Spartan", sans-serif;
+}
+
+.containar {
+  box-sizing: border-box;
+  width: 1440px;
+  height: 3629px;
+  background: no-repeat
+    url(https://img.freepik.com/premium-photo/beautiful-abstract-glowing-background-rays-of-light-element-for-the-design-and-layout-of-websites-3d-render_91497-8573.jpg);
+  background-size: cover;
+  
+}
+
+.mor705 {
+  width: 135px;
+  height: 32px;
+  flex-shrink: 0;
+  color: #f1f0e9;
+  font-family: League Spartan;
+  font-size: 24px;
+
+  font-weight: 300;
+  line-height: 186%;
+  text-align: left;
+  position: absolute;
+  left: 133px;
+  top: 104px;
+  right: 1172px;
+  bottom: 3493px;
+}
+.watch {
+  width: 888px;
+  height: 215px;
+  flex-shrink: 0;
+  color: #ffd700;
+  font-family: League Spartan;
+  font-size: 250px;
+  font-weight: 300;
+  position: absolute;
+  left: 133px;
+  right: 419px;
+  top: 189px;
+}
+.watch-1 {
+  width: 408px;
+  height: 720px;
+  flex-shrink: 0;
+  position: relative;
+
+  left: 792px;
+  top: 4px;
+  right: 240px;
+}
+.p {
+  width: 575px;
+  height: 142px;
+  flex-shrink: 0;
+  color: #f1f0e9;
+  font-family: League Spartan;
+  font-size: 32px;
+
+  font-weight: 300;
+  line-height: 155%;
+  position: absolute;
+  left: 135px;
+  top: 443px;
+}
+
+/*finish*/
+button {
+  width: 131px;
+  height: 21px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: League Spartan;
+  font-size: 32px;
+
+  font-weight: 300;
+  width: 278px;
+  height: 82px;
+  flex-shrink: 0;
+  background: #d82727;
+  position: absolute;
+  left: 135px;
+  top: 646px;
+  right: 1017px;
+  bottom: 2897px;
+}
+
+/*finish*/
+.price {
+  width: 88px;
+  height: 38px;
+  flex-shrink: 0;
+  color: #3c9419;
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 32px;
+
+  font-weight: 300;
+  line-height: 186%;
+  position: absolute;
+  left: 441px;
+  top: 659px;
+  right: 911px;
+}
+.popular {
+  width: 171px;
+  height: 41px;
+  flex-shrink: 0;
+  color: #ebeaf3;
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 186%;
+  position: absolute;
+  left: 621px;
+  top: 943px;
+  right: 648px;
+  bottom: 2645px;
+}
+.models {
+  width: 285px;
+  height: 62px;
+  flex-shrink: 0;
+  color: #ffd700;
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 72px;
+
+  font-weight: 400;
+  line-height: 112.5%;
+  position: absolute;
+  top: 984px;
+  right: 591px;
+  left: 567px;
+}
+.img-2 {
+  width: 286px;
+  height: 410px;
+  flex-shrink: 0;
+
+  position: absolute;
+  left: 582px;
+  top: 1240px;
+  right: 572px;
+  bottom: 1979px;
+}
+.son22 {
+  width: 285px;
+  height: 27px;
+  flex-shrink: 0;
+  color: #ece4e4;
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 32px;
+
+  font-weight: 400;
+  position: absolute;
+  left: 576px;
+  right: 579px;
+  top: 1827px;
+  bottom: 1775px;
+}
+.description {
+  width: 532px;
+  height: 194px;
+  flex-shrink: 0;
+  color: #ebeaf3;
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 155%;
+  position: absolute;
+  top: 1871px;
+  left: 454px;
+  right: 454px;
+}
+.img-3 {
+  width: 500px;
+  height: 500px;
+  flex-shrink: 0;
+  position: absolute;
+  top: 2215px;
+  left: 470px;
+  right: 470px;
+  bottom: 914px;
+}
+.sw12 {
+  color: var(--, #161515);
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 32px;
+
+  font-weight: 400;
+  position: absolute;
+  top: 2847px;
+  left: 687px;
+  right: 1000px;
+  bottom: 753px;
+}
+.description-2 {
+  width: 510px;
+  height: 196px;
+  flex-shrink: 0;
+  color: var(--, #161515);
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 32px;
+
+  font-weight: 300;
+  line-height: 155%;
+  position: absolute;
+  top: 2893px;
+  left: 465px;
+  right: 465px;
+  bottom: 540px;
+}
+
+/*finish*/
+.product {
+  width: 972px;
+  height: 50px;
+  flex-shrink: 0;
+  color: var(--, #161515);
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 32px;
+
+  font-weight: 400;
+  line-height: 186%;
+  text-transform: capitalize;
+  position: absolute;
+  right: 234px;
+  left: 234px;
+  top: 3148px;
+  bottom: 431px;
+}
+.footer {
+  width: 515px;
+  height: 231px;
+  flex-shrink: 0;
+  color: var(--, #161515);
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 24px;
+
+  font-weight: 300;
+  line-height: 170%;
+  position: absolute;
+  top: 3256px;
+  left: 464px;
+  right: 461px;
+  bottom: 142px;
+}
+
+.a {
+  color: #bb8b5d;
+  font-family: League Spartan;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 170%;
+  text-decoration-line: underline;
+}
+
+@media screen and (max-width: 576px) {
+  .body{
+    max-width: 100%;
+  }
+
+  .containar {
+    overflow-x: hidden;
+    
+
+   
+  }
+  .mor705 {
+    
+  }
+
+  .watch {
+    
+  .watch-1 {
+    
+  }
+  .p {
+    
+  }
+
+  button {
+    
+  }
+  .price {
+   
+  }
+  .popular {
+    
+  }
+  .models {
+    
+  }
+  .img-2 {
+    
+  }
+  .son22 {
+   
+  }
+  .description {
+   
+  }
+  .img-3 {
+    
+  }
+  .sw12 {
+   
+  }
+  .description-2 {
+    
+  }
+  .product {
+    
+  }
+  .footer {
+    
+  }
+}
+    
+}
